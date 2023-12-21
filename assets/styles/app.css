@@ -124,3 +124,10 @@ button:active {
   color: white;
   margin: 0;
 }
+
+.droppable{
+  background: #ffe0ec;
+}
+.alert{
+  text-align: center;
+}
